@@ -8,6 +8,6 @@
     <title>Sample Page</title>
 </head>
 <body>
-    <h1 class="text-green-600 font-bold text-9xl">Hello World</h1>
+    <h1 class="text-green-600 font-bold text-9xl">Hello Jon Rolando Manuel</h1>
 </body>
 </html>
