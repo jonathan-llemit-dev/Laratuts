@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1 class="text-green-600 font-bold text-9xl">Hello Jon Rolando Manuel</h1>
+    <h1 class="text-blue-400 font-bold text-9xl">Sample other text</h1>
 </body>
 </html>
